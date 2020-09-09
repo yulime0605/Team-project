@@ -11,15 +11,7 @@
 |Participant|Poles|Skills|Training needs|
 |-----------|-----|------|--------------|
 |최소원|Team leader|Management : team leader<br>Programming : C, Python, Java<br>Configuration management : Github|UML<br>Communication skills|
-|김유림|Implementor|Programming : Python, Java|UML modeling|
-|||Configuration management : Github||
-|박지환|Liaison, tester|Programming : Python|Java, C, C++|
-|||Databases : MySQL||
-|||Testing : whitebox, blackbox||
-|김효민|Implementor|Programming : Python, Java|UML|
-||||Tensonflow|
-||||Communication skills|
-|정순인|Implementor|Programming : python, java|UML|
-||||Tensonflow|
-||||Communication skills|
-
+|김유림|Implementor|Programming : Python, Java<br>Configuration management : Github|UML modeling|
+|박지환|Liaison<br>tester|Programming : Python<br>Databases : MySQL<br>Testing : whitebox, blackbox|Java, C, C++|
+|김효민|Implementor|Programming : Python, Java|UML<br>Tensonflow<br>Communication skills|
+|정순인|Implementor|Programming : python, java|UML<br>Tensonflow<br>Communication skills|
