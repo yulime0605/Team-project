@@ -22,6 +22,6 @@
 ||||Tensonflow|
 ||||Communication skills|
 |정순인|Implementor|Programming : python, java|UML|
-||object designer||Tensonflow|
+||||Tensonflow|
 ||||Communication skills|
 
