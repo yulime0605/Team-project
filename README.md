@@ -10,9 +10,7 @@
 
 |Participant|Poles|Skills|Training needs|
 |-----------|-----|------|--------------|
-|최소원|Team leader|Management : team leader|UML<br>Communication skills|
-|||Programming : C, Python, Java||
-|||Configuration management : Github|
+|최소원|Team leader|Management : team leader<br>Programming : C, Python, Java<br>Configuration management : Github|UML<br>Communication skills|
 |김유림|Implementor|Programming : Python, Java|UML modeling|
 |||Configuration management : Github||
 |박지환|Liaison, tester|Programming : Python|Java, C, C++|
