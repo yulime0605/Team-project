@@ -14,4 +14,4 @@
 |김유림|Implementor|Programming : Python, Java<br>Configuration management : Github|UML modeling|
 |박지환|Liaison<br>tester|Programming : Python<br>Databases : MySQL<br>Testing : whitebox, blackbox|Java, C, C++|
 |김효민|Implementor|Programming : Python, Java|UML<br>Tensonflow<br>Communication skills|
-|정순인|Implementor|Programming : python, java|UML<br>Tensonflow<br>Communication skills|
+|정순인|Implementor|Programming : python, java, Android|UML<br>Tensonflow<br>Communication skills|
