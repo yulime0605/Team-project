@@ -5,7 +5,7 @@
 |||Programming : C, Python, Java|Communication skills|
 |||Configuration management : Github|
 |김유림|Implementor|Programming : Python, Java|UML modeling|
-|||Databases : object-oriented||
+|||Configuration management : Github||
 |박지환|Liaison, tester|Programming : Python|Java, C, C++|
 |||Databases : MySQL||
 |||Testing : whitebox, blackbox||
