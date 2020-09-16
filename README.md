@@ -16,9 +16,7 @@
 |김효민|Implementor|Programming : Python, Java|UML<br>Tensonflow<br>Communication skills|
 |정순인|Implementor|Programming : python, java, Android|UML<br>Communication skills|
 
-# Team-building
-
-#Problem Statement
+# Problem Statement
 
 주제 후보 : 청각 장애인을 위한 위험 요소 파악 어플리케이션
             약 시간 알람
