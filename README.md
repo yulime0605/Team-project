@@ -51,7 +51,7 @@
 
 # Use case Diagram
 > Use case Diagram
-![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/93962226-4488ec80-fd95-11ea-88c8-bfbc1605377a.jpg)
+![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/95674300-34bd3500-0bea-11eb-835b-dcf4e1a419c2.jpg)
 
 > Scenario Description
 ![Scenario description](https://user-images.githubusercontent.com/48286887/93861708-ebb94580-fcfb-11ea-868e-a580ef5025bb.PNG)
