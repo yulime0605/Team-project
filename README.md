@@ -49,19 +49,18 @@
 -	위험 음성이 마이크를 통해 수집된 후 1초 안에 해당 음성을 분석하여 사용자에게 전달
 
 
-# Use case Diagram
-> Use case Diagram ( 최소원 )
+# Use case Diagram ( 최소원 )
 ![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/95674300-34bd3500-0bea-11eb-835b-dcf4e1a419c2.jpg)
 
-> Scenario Description
+# Scenario Description ( 최소원 )
 ![시나리오 디스](https://user-images.githubusercontent.com/48286887/95674721-1573d700-0bed-11eb-87a2-28bab9caa1dc.JPG)
 
-> Use Case Description
+# Use Case Description ( 최소원 )
 ![Use case description](https://user-images.githubusercontent.com/48286887/93861737-f96ecb00-fcfb-11ea-96bb-1f98bb655dd7.PNG)
 
-> Sequence Description ( 박지환, 정순인 )
+# Sequence Description ( 박지환, 정순인 )
 
-> Class Diagram ( 김유림 )
+# Class Diagram ( 김유림 )
 
-> Object diagram ( 김효민 )
+# Object diagram ( 김효민 )
 
