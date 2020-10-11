@@ -50,7 +50,7 @@
 
 
 # Use case Diagram
-> Use case Diagram
+> Use case Diagram ( 최소원 )
 ![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/95674300-34bd3500-0bea-11eb-835b-dcf4e1a419c2.jpg)
 
 > Scenario Description
