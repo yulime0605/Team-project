@@ -58,3 +58,10 @@
 
 > Use Case Description
 ![Use case description](https://user-images.githubusercontent.com/48286887/93861737-f96ecb00-fcfb-11ea-96bb-1f98bb655dd7.PNG)
+
+> Sequence Description ( 박지환, 정순인 )
+
+> Class Diagram ( 김유림 )
+
+> Object diagram ( 김효민 )
+
