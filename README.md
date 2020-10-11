@@ -54,7 +54,7 @@
 ![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/95674300-34bd3500-0bea-11eb-835b-dcf4e1a419c2.jpg)
 
 > Scenario Description
-![Scenario description](https://user-images.githubusercontent.com/48286887/93861708-ebb94580-fcfb-11ea-868e-a580ef5025bb.PNG)
+![시나리오 디스](https://user-images.githubusercontent.com/48286887/95674721-1573d700-0bed-11eb-87a2-28bab9caa1dc.JPG)
 
 > Use Case Description
 ![Use case description](https://user-images.githubusercontent.com/48286887/93861737-f96ecb00-fcfb-11ea-96bb-1f98bb655dd7.PNG)
