@@ -65,8 +65,13 @@
 > 2. **sign to text** : 주변 소리를 인식하여 사용자들에게 위험 상황을 알려주는 컨셉이다. 주변 소리를 못 듣는 청각장애인들에게 알림 피드백을 제공한다.
 * 본 문서에서 제안하는 시스템과의 차이점 : 'sign to text' 서비스는 휴대전화에 설치하는 어플리케이션으로 기능을 제공한다. 본 시스템은 손목에 착용할 수 있는 웨어러블 휴대전화를 쥐고있지 않은 상황에서도 기기로 기능을 제공한다.
 # Sequence Description ( 박지환, 정순인 )
+![image](https://user-images.githubusercontent.com/48286887/95866906-77763d00-0da3-11eb-94d1-16fac5ad26b3.png)
+![image](https://user-images.githubusercontent.com/48286887/95866965-8a890d00-0da3-11eb-9f8f-ecaa0930f7f9.png)
+
 
 # Class Diagram ( 김유림 )
+![image](https://user-images.githubusercontent.com/48286887/95867057-adb3bc80-0da3-11eb-9dac-c44756464f8c.png)
 
 # Object diagram ( 김효민 )
+![image](https://user-images.githubusercontent.com/48286887/95867012-9bd21980-0da3-11eb-9eb6-d38b7c340383.png)
 
