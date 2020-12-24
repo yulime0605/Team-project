@@ -55,7 +55,7 @@
 # Scenario Description ( 최소원 )
 ![시나리오 디스](https://user-images.githubusercontent.com/48286887/95674721-1573d700-0bed-11eb-87a2-28bab9caa1dc.JPG)
 
-# Use Case Description ( 최소원 )
+# Use Case Description ( 김유림 )
 ![Use case description](https://user-images.githubusercontent.com/48286887/93861737-f96ecb00-fcfb-11ea-96bb-1f98bb655dd7.PNG)
 
 # 상용화된 유사한 서비스와의 비교 ( 최소원 )
@@ -75,13 +75,13 @@
 # Object diagram ( 김효민 )
 ![image](https://user-images.githubusercontent.com/48286887/95867012-9bd21980-0da3-11eb-9eb6-d38b7c340383.png)
 
-# design goal
+# design goal (박지환)
  - usability - 남녀노소가 모두 사용하기 쉽도록 어플리케이션으로 제작한다.
  - response time - 위험 요소가 발생한 후 1 초 이내에 Guardian Android 앱에 알림을 보낸다.
  - extensibility - 새로운 위험 요소의 소리를 구분하기 위한 기능 추가 작업이 필요하다.
 
-# Component diagram
+# Component diagram (김효민)
 ![image](https://user-images.githubusercontent.com/48286887/100620975-676de900-3362-11eb-8632-8b877f913986.png)
 
-# Deployment diagram
+# Deployment diagram (박지환)
 ![image](https://user-images.githubusercontent.com/48286887/100625346-be29f180-3367-11eb-9b94-99ddc6035cea.png)
