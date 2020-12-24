@@ -75,7 +75,7 @@
 # Object diagram ( 김효민 )
 ![image](https://user-images.githubusercontent.com/48286887/95867012-9bd21980-0da3-11eb-9eb6-d38b7c340383.png)
 
-# design goal ()
+# design goal (정순인)
  - usability - 남녀노소가 모두 사용하기 쉽도록 어플리케이션으로 제작한다.
  - response time - 위험 요소가 발생한 후 1 초 이내에 Guardian Android 앱에 알림을 보낸다.
  - extensibility - 새로운 위험 요소의 소리를 구분하기 위한 기능 추가 작업이 필요하다.
