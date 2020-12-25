@@ -50,7 +50,7 @@
 
 
 # Use case Diagram ( 최소원 )
-![Use Case Diagram - ATM](https://user-images.githubusercontent.com/48286887/95674300-34bd3500-0bea-11eb-835b-dcf4e1a419c2.jpg)
+![image](https://user-images.githubusercontent.com/48286887/103115653-d7903600-46a6-11eb-89ae-e3bbda2e7c01.png)
 
 # Scenario Description ( 최소원 )
 ![시나리오 디스](https://user-images.githubusercontent.com/48286887/95674721-1573d700-0bed-11eb-87a2-28bab9caa1dc.JPG)
