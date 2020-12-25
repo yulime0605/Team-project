@@ -73,7 +73,7 @@
 ![image](https://user-images.githubusercontent.com/48286887/100543098-805a9980-3291-11eb-9414-aa295bb3b52d.png)
 
 # Object diagram ( 김효민 )
-![image](https://user-images.githubusercontent.com/48286887/95867012-9bd21980-0da3-11eb-9eb6-d38b7c340383.png)
+![image](https://user-images.githubusercontent.com/64200000/103121217-82f8b500-46be-11eb-8466-314bdd28c6c9.png)
 
 # design goal (정순인)
  - usability - 남녀노소가 모두 사용하기 쉽도록 어플리케이션으로 제작한다.
